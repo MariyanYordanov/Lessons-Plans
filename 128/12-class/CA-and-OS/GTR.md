@@ -110,14 +110,16 @@
 
 Основна литература (по учебна програма на МОН):
 
-D. K. Academy. Практически наръчник по системно и мрежово администриране. Windows Server 2019, Издателство „Асеневци", 2019
-Мюлер, С. Компютърна Енциклопедия, 24-то издание, Алекс Софт, 2020
+- D. K. Academy. 
+- Практически наръчник по системно и мрежово администриране. 
+- Windows Server 2019, Издателство „Асеневци", 2019 Мюлер, С. 
+- Компютърна Енциклопедия, 24-то издание, Алекс Софт, 2020
 
 Допълнителна литература:
 
-Stanek, W. R. Windows Server 2022 Inside Out, Microsoft Press, 2022
-Warner, T. PowerShell in a Month of Lunches, 4th Edition, Manning, 2022
-Krause, J. Mastering Windows Server 2022, Packt Publishing, 2023
+- Stanek, W. R. Windows Server 2022 Inside Out, Microsoft Press, 2022
+- Warner, T. PowerShell in a Month of Lunches, 4th Edition, Manning, 2022
+- Krause, J. Mastering Windows Server 2022, Packt Publishing, 2023
 
 Онлайн ресурси:
 

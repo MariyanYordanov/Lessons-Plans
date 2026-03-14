@@ -136,30 +136,30 @@
 
 Основна литература (по учебна програма на МОН):
 
-D. K. Academy. Практически наръчник по системно и мрежово администриране. Windows Server 2019, Издателство „Асеневци", 2019
-Мюлер, С. Компютърна Енциклопедия, 24-то издание, Алекс Софт, 2020
+Иванов, И., П. Стойков. Операционни системи — част 1 и 2, Издателство „Фараго", София, 2012
+Николов, Л. Операционни системи, Технически университет, София, 2009
+Мюлер, С. Компютърна Енциклопедия, 22-ро издание, Алекс Софт, 2017
 
 Допълнителна литература:
 
-Stanek, W. R. Windows Server 2022 Inside Out, Microsoft Press, 2022
-Warner, T. PowerShell in a Month of Lunches, 4th Edition, Manning, 2022
-Krause, J. Mastering Windows Server 2022, Packt Publishing, 2023
+Tanenbaum, A. S. Modern Operating Systems, 4th Edition, Prentice-Hall, 2014
+Silberschatz, A. et al. Operating System Concepts, 10th Edition, Wiley, 2018
+Shotts, W. The Linux Command Line, 2nd Edition, No Starch Press, 2019
 
 Онлайн ресурси:
 
-Microsoft Learn: Windows Server — learn.microsoft.com/en-us/windows-server
-Microsoft Learn: PowerShell — learn.microsoft.com/en-us/powershell
-Active Directory Documentation — learn.microsoft.com/en-us/windows-server/identity
-IIS Documentation — learn.microsoft.com/en-us/iis
-Server Academy — serveracademy.com
+Linux man pages — man7.org
+NTFS Technical Reference — learn.microsoft.com/en-us/windows-server/storage
+ext4 Documentation — kernel.org/doc/html/latest/filesystems/ext4
+Ubuntu Community Help — help.ubuntu.com/community
 
 Нормативни документи:
 
-Учебна програма на МОН по „Учебна практика: Компютърни архитектури и операционни системи", XII клас, специалност 482021
+Учебна програма на МОН по „Учебна практика: Компютърни архитектури и операционни системи", XI клас, специалност 482021
 
 Методически бележки:
 
-Урочните планове са разработени с помощта на AI асистент (Claude, Anthropic) за структуриране и обогатяване на съдържанието. Всички технически данни са верифицирани спрямо официалната документация на Microsoft и утвърдената учебна литература.
+Урочният план е разработен с помощта на AI асистент (Claude, Anthropic) за структуриране и обогатяване на съдържанието. Всички технически данни са верифицирани спрямо официалната документация и утвърдената учебна литература.
 ---
 
 **Изготвил:** Мариян Йорданов
